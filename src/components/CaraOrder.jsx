@@ -42,7 +42,7 @@ export default function CaraOrder() {
         {/* Tombol WhatsApp */}
         <div className="text-center mt-14">
           <a
-            href="https://wa.me/6281234567890" // Ganti dengan nomor WA asli
+            href="https://wa.me/628965517221" // Ganti dengan nomor WA asli
             target="_blank"
             rel="noopener noreferrer"
           >

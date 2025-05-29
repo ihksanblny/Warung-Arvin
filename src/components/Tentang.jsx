@@ -35,7 +35,7 @@ export default function Tentang() {
                                 <br />
                                 <div className="flex items-center gap-2">
                                     <FaWhatsapp className="text-green-500" />
-                                    <span>0812-3456-7890</span>
+                                    <span>+62896-5517-7221</span>
                                 </div>
                                 <div className="flex items-center gap-2">
                                     <FaEnvelope className="text-red-500" />
